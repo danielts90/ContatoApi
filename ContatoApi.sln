@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContatoApi", "ContatoApi.csproj", "{4C5FDBB7-4F3D-48CA-A146-778ECDA414D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContatoIntegrationTest", "..\ContatoIntegrationTest\ContatoIntegrationTest.csproj", "{35DDD8A4-8AF3-4D1F-815A-8F240314FFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5FDBB7-4F3D-48CA-A146-778ECDA414D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5FDBB7-4F3D-48CA-A146-778ECDA414D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5FDBB7-4F3D-48CA-A146-778ECDA414D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5FDBB7-4F3D-48CA-A146-778ECDA414D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DDD8A4-8AF3-4D1F-815A-8F240314FFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DDD8A4-8AF3-4D1F-815A-8F240314FFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DDD8A4-8AF3-4D1F-815A-8F240314FFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DDD8A4-8AF3-4D1F-815A-8F240314FFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C039752-EF68-4BCC-B27F-EBD4A453A50C}
+	EndGlobalSection
+EndGlobal
